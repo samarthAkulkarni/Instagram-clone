@@ -1,0 +1,235 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Poppins&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+body {
+    background-color: #fafafa;
+}
+
+.login-card .main-card{
+    width: 351px;
+    margin-top: 45px;
+    border: 0.5px solid rgb(160, 168, 175);
+    background-color: white;
+}
+
+.heading{
+    font-size: 50px;
+    font-family: 'Dancing Script', cursive;
+    margin-top: 45px;
+}
+
+
+
+
+.inp {
+    margin-top: 50px;
+    margin-bottom: 15px;
+}
+
+.inp input {
+    height: 36px;
+    width: 260px;
+    padding-left: 8px;
+    font-size: 12px;
+    margin-bottom: 8px;
+    text-align: start;
+    border: 0.5px solid rgb(203 213 225);
+    border-radius: 4px;
+
+}
+
+.inp input:focus {
+    outline: 0.5px solid rgb(148 163 184);
+}
+
+.login-btn button{
+    background-color: #0095f6;
+    color: white;
+    width: 266px;
+    height: 31px;
+    font-size: 15px;
+    font-weight: 800;
+    border: none;
+    outline: none;
+    border-radius: 7px;
+}
+
+.or {
+    margin-top: 22px;
+}
+
+
+ hr {
+    width: 114px;
+    margin-top: 7px;
+}
+
+.or #orr {
+    font-weight: bold;
+    color: #8e8e8e;
+    font-size: 14px;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+
+.facebook-login {
+    margin-top: 37px;
+}
+
+.facebook-login:hover {
+    cursor: pointer;
+}
+
+
+.facebook-login .fb-lg-text{
+    margin-left: 7px;
+    font-family: sans-serif;
+    font-weight: 900;
+    color: #385195;
+}
+
+.facebook-logo img{
+    width: 17px;
+    height: 17px;
+    border-radius: 2px;
+}
+
+
+.forget {
+    color: #385195;
+    font-size: 13.5px;
+    margin-top: 25px;
+    margin-bottom: 21px;
+}
+
+.forget:hover {
+    cursor: pointer;
+}
+
+
+
+.second-card {
+    border: 0.5px solid rgb(160, 168, 175);
+    background-color: white;
+    margin-top: 13px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 15.5px;
+}
+
+.sign {
+    color: #0095f6;
+    font-weight: bold;
+    margin-left: 2px;
+    padding: 0px;
+    cursor: pointer;
+}
+
+
+.third-card {
+    margin-top: 23px;
+}
+
+.third-card .app {
+    font-size: 16px;
+}
+
+.third-card .download {
+    margin-top: 23px;
+}
+
+.third-card .download img {
+    margin-left: 8px;
+}
+
+
+.first-line {
+    margin-top: 70px;
+    font-size: 13px;
+    color: #8e8e8e;
+}
+
+.first-line div {
+    cursor: pointer;
+}
+
+.second-line {
+    margin-top: 15px;
+    font-size: 13px;
+    color: #8e8e8e;
+}
+
+
+.third-line {
+    margin-top: 25px;
+    font-size: 13px;
+    color: #8e8e8e;
+    margin-bottom: 50px;
+}
+
+.third-line #arrow {
+    margin-top: -12.5px;
+    font-size: 26px;
+}
+
+
+.simple-text {
+    margin-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#app {
+    height: 40px;
+}
+
+.download img{
+    width: 137px;
+    height: 38px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

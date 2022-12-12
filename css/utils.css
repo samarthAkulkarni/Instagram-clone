@@ -1,0 +1,22 @@
+.center{
+    display: flex;
+    justify-content: center;
+}
+
+.align-center{
+    display: flex;
+    align-items: center;
+}
+
+.space-first {
+    margin-right: 14px;
+}
+
+.space {
+    margin-left: 14px;
+}
+
+.space-last {
+    margin-left: 14px;
+    margin-right: 14px;
+}
